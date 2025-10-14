@@ -28,7 +28,7 @@
 
 **자기 개발**
 - 네트워크 기초 실습: VPC, Subnet, Routing Table, IGW 등 (GNS3, Cisco Packet Tracer, 실제 장비)
-- 블로그 또는 Notion 정리 습관화
+- Github 정리 습관화
 
 ---
 
