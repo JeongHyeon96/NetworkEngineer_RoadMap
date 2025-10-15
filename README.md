@@ -1,6 +1,6 @@
 # KISTI + KREONET 환경을 고려한 네트워크 엔지니어 로드맵
 
-## ✅ 핵심 포인트
+## 핵심 포인트
 **KISTI**는 국가 슈퍼컴퓨터, 연구데이터 허브, 국가연구망(KREONET)을 운영하는 핵심 기관입니다.  
 **KREONET**은 국내 연구기관, 대학, 병원 등을 초고속 네트워크로 연결하는 L2/L3 백본 연구망이며, 해외 연구망(APAN, GEANT 등)과도 연동됩니다.
 
@@ -12,13 +12,16 @@
 
 ---
 
-## 🛠 네트워크 엔지니어 로드뷰 (신입 기준)
+## 네트워크 엔지니어 로드뷰 (신입 기준)
 
-### ✅ 1년 차: 연구망 구조 이해 + 운영 기초 익히기
+### 1년 차: 연구망 구조 이해 + 운영 기초 익히기
 **기술 목표**
 - 네트워크 기초 (TCP/IP, OSI 7계층, 서브넷 계산 등)
 - 리눅스, Cisco 장비 CLI 완숙도 향상
+  -- Cent OS 8: 이것이 리눅스다(https://www.youtube.com/watch?v=ovrU9K3jfJs&list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN）
+  -- Rocky Linux: 이것이 리눅스다(https://www.youtube.com/watch?v=7KR8ol-Z8h8&list=PLVsNizTWUw7FqN2gq79Cb3R6qkS7mqOJk)
 - Python 기본 문법 및 네트워크 자동화 툴(Netmiko, NAPALM) 학습
+  -- Python 강의: 조코딩 (https://www.youtube.com/watch?v=7ttbyGI5igA&list=PLU9-uwewPMe05-khW3YcDEaHMk_qA-7lI)
 - KREONET 백본 구조 및 트래픽 흐름, 장비 구성 학습
 
 **실무 경험**
@@ -32,7 +35,7 @@
 
 ---
 
-### ✅ 3년 차: 기초 기반 + AI 활용 기초 
+### 3년 차: 기초 기반 + AI 활용 기초 
 **기술 목표**
 - Python + Ansible 자동화 실무 적용 및 AI 연계 자동화 기초 학습(Python + OpenAI API로 간단한 네트워크 설정 툴 제작)
 - 네트워크 로그 분석 자동화에 AI 모델 활용 시도 (LLM or ML)
@@ -46,7 +49,7 @@
 
 ---
 
-### ✅ 5년 차: 클라우드 네트워크 전문가로 전환
+### 5년 차: 클라우드 네트워크 전문가로 전환
 **기술 목표**
 - AWS Advanced Networking + Terraform 숙련 + AWS AI 서비스 연계
 - SDN, ONOS/ODL 실습 적용
