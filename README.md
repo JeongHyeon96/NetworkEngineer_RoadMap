@@ -18,10 +18,10 @@
 **기술 목표**
 - 네트워크 기초 (TCP/IP, OSI 7계층, 서브넷 계산 등)
 - 리눅스, Cisco 장비 CLI 완숙도 향상
-  -- Cent OS 8: 이것이 리눅스다(https://www.youtube.com/watch?v=ovrU9K3jfJs&list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN）
-  -- Rocky Linux: 이것이 리눅스다(https://www.youtube.com/watch?v=7KR8ol-Z8h8&list=PLVsNizTWUw7FqN2gq79Cb3R6qkS7mqOJk)
+   Cent OS 8: 이것이 리눅스다(https://www.youtube.com/watch?v=ovrU9K3jfJs&list=PLVsNizTWUw7EJ9z-LW3lv3VC-6HI9I3hN）
+   Rocky Linux: 이것이 리눅스다(https://www.youtube.com/watch?v=7KR8ol-Z8h8&list=PLVsNizTWUw7FqN2gq79Cb3R6qkS7mqOJk)
 - Python 기본 문법 및 네트워크 자동화 툴(Netmiko, NAPALM) 학습
-  -- Python 강의: 조코딩 (https://www.youtube.com/watch?v=7ttbyGI5igA&list=PLU9-uwewPMe05-khW3YcDEaHMk_qA-7lI)
+   Python 강의: 조코딩 (https://www.youtube.com/watch?v=7ttbyGI5igA&list=PLU9-uwewPMe05-khW3YcDEaHMk_qA-7lI)
 - KREONET 백본 구조 및 트래픽 흐름, 장비 구성 학습
 
 **실무 경험**
